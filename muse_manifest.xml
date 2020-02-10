@@ -1,0 +1,41 @@
+<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="emanuelopes.com" resolutions="1x" timestamp="1581360038105">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="work.css" crc="3921435126" ref="work"/>
+    <file name="nomq_work.css" crc="4023710858" ref="work"/>
+    <file name="home.css" crc="3776643894" ref="home"/>
+    <file name="nomq_home.css" crc="3899244127" ref="home"/>
+    <file name="index.css" crc="4156472508" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="home:index:work"/>
+    <file name="museutils.js" crc="3939489907" ref="home:index:work"/>
+    <file name="whatinput.js" crc="86476730" ref="home:index:work"/>
+    <file name="museconfig.js" crc="3936894949" ref="home:index:work"/>
+    <file name="jquery.watch.js" crc="522499760" ref="home:work"/>
+    <file name="jquery.museresponsive.js" crc="95814420" ref="home:work"/>
+    <file name="require.js" crc="4177726516" ref="home:index:work"/>
+  </folder>
+  <folder name="images">
+    <file name="logo-big.svg" crc="468266182" seo="true" ref="home:work">
+      <caption webpage="work" alt=""/>
+      <caption webpage="work" alt=""/>
+      <caption webpage="home" alt=""/>
+      <caption webpage="home" alt=""/>
+    </file>
+    <file name="logo-big_poster_.png" crc="4209539511" ref="home"/>
+    <file name="emanuel-56.jpg" crc="338662370" seo="true" ref="home">
+      <caption webpage="home" alt=""/>
+    </file>
+    <file name="u1427-8.png" crc="4059318222" ref="home"/>
+    <file name="u1427-82.png" crc="4085378532" ref="home"/>
+    <file name="blank.gif" crc="4208392903" ref="home:work"/>
+    <file name="u3141-4.png" crc="493010783" ref="work"/>
+    <file name="u3179-8.png" crc="4059318222" ref="work"/>
+    <file name="u3141-42.png" crc="493010783" ref="work"/>
+    <file name="u3179-82.png" crc="4059318222" ref="work"/>
+  </folder>
+  <file name="home.html" crc="343806724" seo="true" mt="1581358408071" redirect="true"/>
+  <file name="index.html" crc="345633248" seo="true" mt="1581358308676" redirect="true"/>
+  <file name="work.html" crc="280003898" seo="true" mt="1581357570159" redirect="true"/>
+</manifest>
