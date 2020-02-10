@@ -1,11 +1,11 @@
-<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="emanuelopes.com" resolutions="1x" timestamp="1581360038105">
+<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="emanuelopes.com" resolutions="1x" timestamp="1581361067825">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
     <file name="work.css" crc="3921435126" ref="work"/>
     <file name="nomq_work.css" crc="4023710858" ref="work"/>
-    <file name="home.css" crc="3776643894" ref="home"/>
+    <file name="home.css" crc="487277804" ref="home"/>
     <file name="nomq_home.css" crc="3899244127" ref="home"/>
-    <file name="index.css" crc="4156472508" ref="index"/>
+    <file name="index.css" crc="3922665863" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="home:index:work"/>
@@ -35,7 +35,7 @@
     <file name="u3141-42.png" crc="493010783" ref="work"/>
     <file name="u3179-82.png" crc="4059318222" ref="work"/>
   </folder>
-  <file name="home.html" crc="343806724" seo="true" mt="1581358408071" redirect="true"/>
-  <file name="index.html" crc="345633248" seo="true" mt="1581358308676" redirect="true"/>
-  <file name="work.html" crc="280003898" seo="true" mt="1581357570159" redirect="true"/>
+  <file name="home.html" crc="3803140342" seo="true" mt="1581361043488" redirect="true"/>
+  <file name="index.html" crc="384280316" seo="true" mt="1581360907894" redirect="true"/>
+  <file name="work.html" crc="3888476974" seo="true" mt="1581357570159" redirect="true"/>
 </manifest>
