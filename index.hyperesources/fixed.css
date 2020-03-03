@@ -1,3 +1,6 @@
-.fixed {position: fixed !important}
+.fixed {position: fixed !important;
+position: center !important;
 
-.static {position: absolute !important}
+}
+
+
